@@ -34,7 +34,7 @@ async def start(client, message):
         btn = InlineKeyboardMarkup(
            [[InlineKeyboardButton(text="𝙳𝚎𝚟", url="http://t.me/Adhi0420"),
              InlineKeyboardButton(
-                        text="𝚂𝚞𝚙𝚙𝚘𝚛𝚝", url="https://t.me/musicfinderbotgroup")
+                        text="𝚂𝚞𝚙𝚙𝚘𝚛𝚝", url="https://t.me/musicfinderbotgroup"
                     )
                 ]
             ]
