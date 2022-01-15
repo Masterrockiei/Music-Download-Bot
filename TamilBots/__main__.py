@@ -11,7 +11,7 @@ from TamilBots.sql.chat_sql import add_chat_to_db
 start_text = """
 👋 𝗛𝗲𝗹𝗹𝗼 [{}](tg://user?id={}),
 
-\n\n𝗜 𝗔𝗺 𝐒𝐨𝐧𝐠 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐞𝐫 𝐁𝐨𝐭[🎶](https://telegra.ph/file/2545eb2e7fa0ca7724907.jpg)
+\n\n𝗜 𝗔𝗺 𝐒𝐨𝐧𝐠 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐞𝐫 𝐁𝐨𝐭[🎶](https://telegra.ph/file/67a238112341dc2da77d9.jpg)
 
 Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs ᴀɴᴅ ᴍᴀᴋᴇ ᴍᴇ ᴀs ᴀᴅᴍɪɴ
 
